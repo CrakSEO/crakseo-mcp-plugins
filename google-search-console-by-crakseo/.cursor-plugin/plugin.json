@@ -1,0 +1,27 @@
+{
+  "name": "google-search-console-by-crakseo",
+  "version": "1.0.0",
+  "description": "Free Google Search Console (GSC) & Bing Webmaster Tools by CrakSEO. Free Google Search Console (GSC) for SEO: your own Search Console search analytics, keywords, search rankings, clicks, impressions, URL inspection and Bing Webmaster Tools.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/search-console",
+  "repository": "https://github.com/LoganOneal/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "google search console",
+    "gsc",
+    "bing webmaster tools",
+    "search console",
+    "search analytics",
+    "organic traffic",
+    "search rankings",
+    "url inspection",
+    "traffic drop",
+    "striking distance keywords",
+    "keyword cannibalization",
+    "webmaster tools"
+  ],
+  "logo": "assets/logo.png"
+}

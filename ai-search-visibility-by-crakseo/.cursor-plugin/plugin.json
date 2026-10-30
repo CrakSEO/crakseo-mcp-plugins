@@ -1,0 +1,26 @@
+{
+  "name": "ai-search-visibility-by-crakseo",
+  "version": "1.0.0",
+  "description": "AI Search Visibility: Brand Mentions in ChatGPT, Perplexity & AI Overviews by CrakSEO. AI search visibility for SEO and GEO: check brand mentions in ChatGPT, Perplexity and Google AI Overviews, and see which sources and citations AI answers use.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/ai-visibility",
+  "repository": "https://github.com/LoganOneal/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ai visibility",
+    "ai search visibility",
+    "brand mentions",
+    "chatgpt",
+    "perplexity",
+    "llm citations",
+    "geo",
+    "ai overview citations",
+    "llm monitoring",
+    "ai search tracking",
+    "answer engine optimization"
+  ],
+  "logo": "assets/logo.png"
+}

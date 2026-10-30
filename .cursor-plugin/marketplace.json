@@ -1,0 +1,62 @@
+{
+  "name": "crakseo",
+  "owner": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "metadata": {
+    "description": "SEO MCP plugins by CrakSEO: keyword research, SERP API, backlinks, rank checks, site audits, local SEO, AI visibility, URL indexing and Google Search Console."
+  },
+  "plugins": [
+    {
+      "name": "seo-tools-by-crakseo",
+      "source": "seo-tools-by-crakseo",
+      "description": "SEO Tools: Keyword Research, SERP, Backlinks & Rank Tracking by CrakSEO"
+    },
+    {
+      "name": "serp-api-by-crakseo",
+      "source": "serp-api-by-crakseo",
+      "description": "SERP API: Live Google Search Results by CrakSEO"
+    },
+    {
+      "name": "keyword-research-by-crakseo",
+      "source": "keyword-research-by-crakseo",
+      "description": "Keyword Research: Search Volume, Keyword Difficulty & CPC by CrakSEO"
+    },
+    {
+      "name": "backlink-checker-by-crakseo",
+      "source": "backlink-checker-by-crakseo",
+      "description": "Backlink Checker: Backlinks, Referring Domains & Anchor Text by CrakSEO"
+    },
+    {
+      "name": "google-rank-checker-by-crakseo",
+      "source": "google-rank-checker-by-crakseo",
+      "description": "Google Rank Checker: Keyword Rankings & Rank Tracking by CrakSEO"
+    },
+    {
+      "name": "seo-site-audit-by-crakseo",
+      "source": "seo-site-audit-by-crakseo",
+      "description": "SEO Site Audit: Technical SEO Checker & Page Speed by CrakSEO"
+    },
+    {
+      "name": "local-seo-by-crakseo",
+      "source": "local-seo-by-crakseo",
+      "description": "Local SEO: Google Maps Rank Checker & Business Profile Ratings by CrakSEO"
+    },
+    {
+      "name": "ai-search-visibility-by-crakseo",
+      "source": "ai-search-visibility-by-crakseo",
+      "description": "AI Search Visibility: Brand Mentions in ChatGPT, Perplexity & AI Overviews by CrakSEO"
+    },
+    {
+      "name": "google-search-console-indexing-by-crakseo",
+      "source": "google-search-console-indexing-by-crakseo",
+      "description": "Google Search Console Indexing: Index Checker, IndexNow & Force Indexing by CrakSEO"
+    },
+    {
+      "name": "google-search-console-by-crakseo",
+      "source": "google-search-console-by-crakseo",
+      "description": "Free Google Search Console (GSC) & Bing Webmaster Tools by CrakSEO"
+    }
+  ]
+}
