@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crakseo-keyword-research": {
+      "type": "http",
+      "url": "https://crakseo.com/mcp/keyword-research"
+    }
+  }
+}

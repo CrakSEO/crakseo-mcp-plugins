@@ -2,7 +2,7 @@
 
 # SEO MCP plugins by CrakSEO
 
-One plugin per hosted CrakSEO MCP server, for Cursor and other clients that load Agent or Cursor plugins. Each plugin holds the server address, an agent skill and a logo; the servers themselves are hosted by CrakSEO, so there is no server source here.
+One plugin per hosted CrakSEO MCP server, for Cursor, Grok Build and other clients that load Agent, Cursor or Grok plugins. Each plugin holds the server address (`mcp.json` for Cursor, `.mcp.json` for Grok Build), an agent skill and a logo; the servers themselves are hosted by CrakSEO, so there is no server source here.
 
 | Plugin | Server | Price |
 | --- | --- | --- |

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crakseo-seo": {
+      "type": "http",
+      "url": "https://crakseo.com/mcp/seo"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crakseo-ai-visibility": {
+      "type": "http",
+      "url": "https://crakseo.com/mcp/ai-visibility"
+    }
+  }
+}

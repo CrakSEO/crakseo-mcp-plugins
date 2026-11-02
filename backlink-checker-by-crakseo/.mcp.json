@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crakseo-backlinks": {
+      "type": "http",
+      "url": "https://crakseo.com/mcp/backlinks"
+    }
+  }
+}

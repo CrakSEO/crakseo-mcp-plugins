@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crakseo-url-indexing": {
+      "type": "http",
+      "url": "https://crakseo.com/mcp/url-indexing"
+    }
+  }
+}

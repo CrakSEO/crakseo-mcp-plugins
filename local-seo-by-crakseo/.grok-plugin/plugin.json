@@ -1,0 +1,22 @@
+{
+  "name": "local-seo-by-crakseo",
+  "version": "1.0.0",
+  "description": "Local SEO: Google Maps Rank Checker & Business Profile Ratings by CrakSEO. Local SEO for Google Maps: check Maps rankings for any keyword and location, with Google Business Profile ratings and review counts for you and local competitors.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/local-seo",
+  "repository": "https://github.com/LoganOneal/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "local seo",
+    "google maps ranking",
+    "local rank tracker",
+    "google business profile",
+    "local search",
+    "google my business",
+    "reviews"
+  ],
+  "logo": "assets/logo.png"
+}
