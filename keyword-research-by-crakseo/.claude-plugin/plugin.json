@@ -1,0 +1,24 @@
+{
+  "name": "keyword-research-by-crakseo",
+  "version": "1.0.0",
+  "description": "Keyword Research: Search Volume, Keyword Difficulty & CPC by CrakSEO. Keyword research for SEO: monthly search volume, keyword difficulty, CPC, keyword ideas, related keywords and competitor keyword gaps for any topic and country.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/keyword-research",
+  "repository": "https://github.com/CrakSEO/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "keyword research",
+    "search volume",
+    "keyword difficulty",
+    "keyword ideas",
+    "cpc",
+    "search trends",
+    "related keywords",
+    "competitor keywords",
+    "keyword generator",
+    "topics"
+  ]
+}

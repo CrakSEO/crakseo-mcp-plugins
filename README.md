@@ -2,7 +2,14 @@
 
 # SEO MCP plugins by CrakSEO
 
-One plugin per hosted CrakSEO MCP server, for Cursor, Grok Build and other clients that load Agent, Cursor or Grok plugins. Each plugin holds the server address (`mcp.json` for Cursor, `.mcp.json` for Grok Build), an agent skill and a logo; the servers themselves are hosted by CrakSEO, so there is no server source here.
+One plugin per hosted CrakSEO MCP server, for Claude Code, Cursor, Grok Build and other clients that load Agent, Claude, Cursor or Grok plugins. Each plugin holds the server address (`mcp.json` for Cursor, `.mcp.json` for Claude Code and Grok Build), an agent skill and a logo; the servers themselves are hosted by CrakSEO, so there is no server source here.
+
+In Claude Code, add this repository as a plugin marketplace and install the plugin you need:
+
+```text
+/plugin marketplace add CrakSEO/crakseo-mcp-plugins
+/plugin install seo-tools-by-crakseo@crakseo
+```
 
 | Plugin | Server | Price |
 | --- | --- | --- |

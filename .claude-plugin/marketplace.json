@@ -1,0 +1,197 @@
+{
+  "name": "crakseo",
+  "owner": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "metadata": {
+    "description": "SEO MCP plugins for Claude Code: keyword research, SERP API, backlinks, rank tracking, site audits, local SEO, AI visibility, URL indexing and a free Google Search Console MCP."
+  },
+  "plugins": [
+    {
+      "name": "seo-tools-by-crakseo",
+      "source": "./seo-tools-by-crakseo",
+      "description": "SEO Tools: Keyword Research, SERP, Backlinks & Rank Tracking by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "seo",
+        "keyword research",
+        "backlinks",
+        "rank tracking",
+        "search volume",
+        "serp",
+        "site audit",
+        "competitor analysis",
+        "ai visibility",
+        "local seo",
+        "google maps"
+      ]
+    },
+    {
+      "name": "serp-api-by-crakseo",
+      "source": "./serp-api-by-crakseo",
+      "description": "SERP API: Live Google Search Results by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "serp",
+        "google search results",
+        "serp api",
+        "keyword rankings",
+        "seo",
+        "local search",
+        "location and device",
+        "google ai overview",
+        "ai overview sources",
+        "google maps",
+        "bing",
+        "people also ask"
+      ]
+    },
+    {
+      "name": "keyword-research-by-crakseo",
+      "source": "./keyword-research-by-crakseo",
+      "description": "Keyword Research: Search Volume, Keyword Difficulty & CPC by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "keyword research",
+        "search volume",
+        "keyword difficulty",
+        "keyword ideas",
+        "cpc",
+        "search trends",
+        "related keywords",
+        "competitor keywords",
+        "keyword generator",
+        "topics"
+      ]
+    },
+    {
+      "name": "backlink-checker-by-crakseo",
+      "source": "./backlink-checker-by-crakseo",
+      "description": "Backlink Checker: Backlinks, Referring Domains & Anchor Text by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "backlinks",
+        "backlink checker",
+        "referring domains",
+        "link analysis",
+        "anchor text",
+        "link gap",
+        "competitor backlinks",
+        "lost links",
+        "new and lost backlinks",
+        "spam score"
+      ]
+    },
+    {
+      "name": "google-rank-checker-by-crakseo",
+      "source": "./google-rank-checker-by-crakseo",
+      "description": "Google Rank Checker: Keyword Rankings & Rank Tracking by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "rank tracking",
+        "google rankings",
+        "rank checker",
+        "keyword positions",
+        "ranked keywords",
+        "competitor analysis",
+        "website traffic",
+        "organic traffic",
+        "traffic estimate"
+      ]
+    },
+    {
+      "name": "seo-site-audit-by-crakseo",
+      "source": "./seo-site-audit-by-crakseo",
+      "description": "SEO Site Audit: Technical SEO Checker & Page Speed by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "site audit",
+        "seo audit",
+        "website crawl",
+        "technical seo",
+        "crawl errors",
+        "broken links",
+        "page speed",
+        "core web vitals",
+        "lighthouse",
+        "structured data",
+        "schema validator",
+        "rich results"
+      ]
+    },
+    {
+      "name": "local-seo-by-crakseo",
+      "source": "./local-seo-by-crakseo",
+      "description": "Local SEO: Google Maps Rank Checker & Business Profile Ratings by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "local seo",
+        "google maps ranking",
+        "local rank tracker",
+        "google business profile",
+        "local search",
+        "google my business",
+        "reviews"
+      ]
+    },
+    {
+      "name": "ai-search-visibility-by-crakseo",
+      "source": "./ai-search-visibility-by-crakseo",
+      "description": "AI Search Visibility: Brand Mentions in ChatGPT, Perplexity & AI Overviews by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "ai visibility",
+        "ai search visibility",
+        "brand mentions",
+        "chatgpt",
+        "perplexity",
+        "llm citations",
+        "geo",
+        "ai overview citations",
+        "llm monitoring",
+        "ai search tracking",
+        "answer engine optimization"
+      ]
+    },
+    {
+      "name": "google-search-console-indexing-by-crakseo",
+      "source": "./google-search-console-indexing-by-crakseo",
+      "description": "Google Search Console Indexing: Index Checker, IndexNow & Force Indexing by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "indexing",
+        "google index",
+        "indexnow",
+        "google search console",
+        "request indexing",
+        "submit url",
+        "url inspection",
+        "sitemap",
+        "index checker",
+        "force indexing",
+        "crawled currently not indexed"
+      ]
+    },
+    {
+      "name": "google-search-console-by-crakseo",
+      "source": "./google-search-console-by-crakseo",
+      "description": "Free Google Search Console (GSC) & Bing Webmaster Tools by CrakSEO",
+      "category": "seo",
+      "keywords": [
+        "google search console",
+        "gsc",
+        "bing webmaster tools",
+        "search console",
+        "search analytics",
+        "organic traffic",
+        "search rankings",
+        "url inspection",
+        "traffic drop",
+        "striking distance keywords",
+        "keyword cannibalization",
+        "webmaster tools"
+      ]
+    }
+  ]
+}

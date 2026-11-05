@@ -1,0 +1,24 @@
+{
+  "name": "backlink-checker-by-crakseo",
+  "version": "1.0.0",
+  "description": "Backlink Checker: Backlinks, Referring Domains & Anchor Text by CrakSEO. Backlink checker for SEO: backlinks, referring domains and anchor text for any website or competitor. Link analysis for backlink audits and link building.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/backlinks",
+  "repository": "https://github.com/CrakSEO/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "backlinks",
+    "backlink checker",
+    "referring domains",
+    "link analysis",
+    "anchor text",
+    "link gap",
+    "competitor backlinks",
+    "lost links",
+    "new and lost backlinks",
+    "spam score"
+  ]
+}

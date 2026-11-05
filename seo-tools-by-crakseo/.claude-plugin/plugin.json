@@ -1,0 +1,25 @@
+{
+  "name": "seo-tools-by-crakseo",
+  "version": "1.0.0",
+  "description": "SEO Tools: Keyword Research, SERP, Backlinks & Rank Tracking by CrakSEO. SEO tools in one connection: keyword research, search volume, live Google SERP, rank tracking, backlinks, site audit, local SEO and AI search visibility.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/seo",
+  "repository": "https://github.com/CrakSEO/crakseo-mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "keyword research",
+    "backlinks",
+    "rank tracking",
+    "search volume",
+    "serp",
+    "site audit",
+    "competitor analysis",
+    "ai visibility",
+    "local seo",
+    "google maps"
+  ]
+}
